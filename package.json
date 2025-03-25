@@ -1,0 +1,15 @@
+{
+  "name": "it488-team1-to-do-app",
+  "version": "1.0.0",
+  "description": "Team 1's to-do app web application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Kobe Plane, Abby Lee, Josh Amansec, Kelli Carroll,  Lexi Lanning",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.13.13"
+  }
+}
